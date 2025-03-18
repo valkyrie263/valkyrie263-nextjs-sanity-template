@@ -1,0 +1,7 @@
+{
+  "theme": {
+    "dark": "Dark Mode",
+    "light": "Light Mode",
+    "toggle": "Toggle Mode"
+  }
+}
